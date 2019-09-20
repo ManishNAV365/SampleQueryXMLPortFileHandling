@@ -1,0 +1,26 @@
+{
+  "id": "56459a73-ba1a-4441-8ad0-64b134b72177",
+  "name": "DBMng",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://DBMng.com/help/",
+  "showMyCode": false,
+  "runtime": "3.2"
+}
